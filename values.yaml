@@ -6,7 +6,7 @@
 replicaCount: 1
 
 image:
-  repository: kong-admin-ui
+  repository: pocketdigi/kong-admin-ui
   tag: 0.5.3
   pullPolicy: IfNotPresent
 
