@@ -3,11 +3,11 @@ entries:
   kong-admin-ui:
   - apiVersion: v1
     appVersion: 0.14.13
-    created: "2021-11-05T15:00:56.594738807+01:00"
+    created: "2021-11-05T15:07:38.74435196+01:00"
     description: A Helm chart for Kubernetes
-    digest: a638792eef0c9d230db5c5397962305028e5544816518ecbb7edd4bc0940fbc9
+    digest: 329d60fba3b2192f54c4b5fbd6b053f26c64e226688ad342e6504b7767b8f39d
     name: kong-admin-ui
     urls:
     - https://qcdis.github.io/kong-ui-helm/kong-admin-ui-1.0.0.tgz
     version: 1.0.0
-generated: "2021-11-05T15:00:56.594195513+01:00"
+generated: "2021-11-05T15:07:38.74368281+01:00"
